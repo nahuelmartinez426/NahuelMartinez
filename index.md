@@ -1,9 +1,8 @@
 ## Nahuel Martinez 
 Soy de **Capitan Sarmienro** estudie en la escuela **ESB N° 2** 
 ### Estudios
--1 bachiller en ciencias sociales 
--2 Tecnicatura Universitaria en Programación Informática de la [Universidad de Quilmes](http://www.unq.edu.ar)
-
+-    bachiller en ciencias sociales.
+- T  ecnicatura Universitaria en Programación Informática de la [Universidad de Quilmes](http://www.unq.edu.ar).
 ### Markdown
 
 # Contactarme
