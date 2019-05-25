@@ -1,15 +1,16 @@
 ## Nahuel Martinez 
-Soy de **Capitan Sarmienro** estudie en la escuela **ESB N° 2** 
-### Estudios
--    bachiller en ciencias sociales.
-- T  ecnicatura Universitaria en Programación Informática de la [Universidad de Quilmes](http://www.unq.edu.ar).
-### Markdown
+### Proyectos 
 
-# Contactarme
-Imail: nahuelmartinez827@gmail.com
-### Header 3
+### Formacion
+-    Bachiller en ciencias sociales **ESB N° 2**.
+-    Tecnicatura Universitaria en Programación Informática de la [Universidad de Quilmes](http://www.unq.edu.ar).
+### Idioma
+-  Español 
+### Habilidades profesionales
+-  Capacidad de trabajo en equipo.
+-  Resolutivo.
+-  Gran capacidad de aprendizaje.
+### Conocimientos Digitlas 
 
-### Jekyll Themes
-
-
-### Support or Contact
+### Contactarme
+Imail: nahuelmartinez827@gmail.com 
