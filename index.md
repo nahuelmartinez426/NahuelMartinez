@@ -15,14 +15,15 @@
 -  Gran capacidad de aprendizaje.
 
 ### Conocimientos Digitlas 
-<div>
-<p class="imagesDeLogo"><i class="devicon-android-plain-wordmark colored"></i>
- class="imagesDeLogo"><i class="devicon-github-plain-wordmark colored"></i></p>
-<p class="imagesDeLogo"><i class="devicon-gitlab-plain-wordmark colored"></i></p>
-<p class="imagesDeLogo"><i class="devicon-javascript-plain colored"></i></p>
-<p class="imagesDeLogo"><i class="devicon-mysql-plain-wordmark colored"></i></p>
-<p class="imagesDeLogo"><i class="devicon-tomcat-line-wordmark colored"></i></p>
-<p class="imagesDeLogo"><i class="devicon-bootstrap-plain-wordmark colored"></i></p>
-</div>
+
+<p class="imagesDeLogo">
+<i class="devicon-android-plain-wordmark colored"></i>
+<i class="devicon-github-plain-wordmark colored"></i>
+<i class="devicon-gitlab-plain-wordmark colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-mysql-plain-wordmark colored"></i>
+<i class="devicon-tomcat-line-wordmark colored"></i><
+<i class="devicon-bootstrap-plain-wordmark colored"></i></p>
+
 ### Contactarme
 Imail: nahuelmartinez827@gmail.com 
