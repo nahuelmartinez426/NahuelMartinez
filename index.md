@@ -15,6 +15,7 @@
 -  Gran capacidad de aprendizaje.
 
 ### Conocimientos Digitlas 
+<div class="border">
 <p class="imagesDeLogo"><i class="devicon-android-plain-wordmark colored"></i></p>
 <p class="imagesDeLogo"><i class="devicon-github-plain-wordmark colored"></i></p>
 <p class="imagesDeLogo"><i class="devicon-gitlab-plain-wordmark colored"></i></p>
@@ -22,6 +23,6 @@
 <p class="imagesDeLogo"><i class="devicon-mysql-plain-wordmark colored"></i></p>
 <p class="imagesDeLogo"><i class="devicon-tomcat-line-wordmark colored"></i></p>
 <p class="imagesDeLogo"><i class="devicon-bootstrap-plain-wordmark colored"></i></p>
-
+</div>
 ### Contactarme
 Imail: nahuelmartinez827@gmail.com 
