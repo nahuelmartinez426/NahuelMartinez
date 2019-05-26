@@ -16,7 +16,6 @@
 
 ### Conocimientos Digitlas 
 <p class="imagesDeLogo"><i class="devicon-android-plain-wordmark colored"></i></p>
-<p class="imagesDeLogo"><i class="devicon-android-plain-wordmark colored"></i></p>
 <p class="imagesDeLogo"><i class="devicon-github-plain-wordmark colored"></i></p>
 <p class="imagesDeLogo"><i class="devicon-gitlab-plain-wordmark colored"></i></p>
 <p class="imagesDeLogo"><i class="devicon-javascript-plain colored"></i></p>
