@@ -16,6 +16,13 @@
 
 ### Conocimientos Digitlas 
 <p class="imagesDeLogo"><i class="devicon-android-plain-wordmark colored"></i></p>
+<p class="imagesDeLogo"><i class="devicon-android-plain-wordmark colored"></i></p>
+<p class="imagesDeLogo"><i class="devicon-github-plain-wordmark colored"></i></p>
+<p class="imagesDeLogo"><i class="devicon-gitlab-plain-wordmark colored"></i></p>
+<p class="imagesDeLogo"><i class="devicon-javascript-plain colored"></i></p>
+<p class="imagesDeLogo"><i class="devicon-mysql-plain-wordmark colored"></i></p>
+<p class="imagesDeLogo"><i class="devicon-tomcat-line-wordmark colored"></i></p>
+<p class="imagesDeLogo"><i class="devicon-bootstrap-plain-wordmark colored"></i></p>
 
 ### Contactarme
 Imail: nahuelmartinez827@gmail.com 
